@@ -1,7 +1,7 @@
 #include <iostream>
 #include <math.h>
 using namespace std;
-fc
+
 
 
 // code for Equilateral triangle
